@@ -1,5 +1,7 @@
 # BigPi
-Computing the value of Pi to a million digits using the MPIR Library
+Computing the value of Pi to a million digits using the MPIR Library and Nonic algorithm "https://en.wikipedia.org/wiki/Borwein%27s_algorithm#Nonic_convergence".
+
+The nonic algorithm increases the accuracy of the decimals of Pi by a factor of 9 on each successive iteration.
 
 Installing the MPIR library.
 
